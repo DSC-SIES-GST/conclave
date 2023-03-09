@@ -1,0 +1,19 @@
+*{
+  overflow: hidden;
+}
+.soon{
+  min-height: 790px;
+  background: url("./home.png");
+  background-repeat: no-repeat;
+}
+
+.img{
+  padding: 15%;
+}
+
+h1{
+  font-size: 5.5rem;
+}
+h3{
+  font-size: 3.4rem;
+}
